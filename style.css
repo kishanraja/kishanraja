@@ -1,0 +1,16 @@
+body{
+		 /* background-color:rgb(195,195,195); 
+		 background-image:url(right_bg.jpg);*/
+		 background-image:url(abstract_squares_2_wallpaper_1080p_by_danielthorndyke-d8sxed4.png);
+		 background-attachment:fixed;
+	}
+h1,h2,h3,h4,h5,td{
+	color:#FFFFFF;
+}
+h2
+{
+	text-align:left;
+}
+h5{
+font-size:20px;
+}
